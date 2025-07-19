@@ -1,7 +1,8 @@
 ### Hi, I'm Elie!
 
 - computer science and mathematics student at College Lionel-Groulx
-- currently learning C# and Unity
+- know C# and Unity 
+- currently learning HTML
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elithbd27) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thbde27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliethibodeau@outlook.com) 
